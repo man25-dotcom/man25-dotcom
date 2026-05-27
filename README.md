@@ -105,7 +105,7 @@ Multi-device digital scoring system replacing manual scorecards in boxing compet
 
 - Shipping **Brux Waffles** to full launch (Phase 2 PickMe integration in scope)
 - Pushing **RideLink** toward public launch
-- Targeting graduate / early-career SWE roles — open to remote and Singapore-based opportunities
+- Targeting graduate / early-career SWE roles - open to remote and Singapore-based opportunities
 
 ---
 
